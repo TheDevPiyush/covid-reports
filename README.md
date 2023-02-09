@@ -1,8 +1,10 @@
-# Getting Started with Create React App
+# About Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This app is coded by PiyushDev. Covid report gives you real time details of covid 19 from all over the world. It uses an API from Rapid-APi service. 
 
-## Available Scripts
+### The App is Live here : https://reportglobalcovid.netlify.app/
+
+# Available Scripts
 
 In the project directory, you can run:
 
