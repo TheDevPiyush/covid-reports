@@ -1,7 +1,8 @@
 # About Project
 
-This app is coded by PiyushDev. Covid report gives you real time details of covid 19 from all over the world. It uses an API from Rapid-APi service. 
-
+This app is coded by PiyushDev. <br/><br/> Covid report gives you real time details of covid 19 from all over the world. It uses an API from Rapid-APi service in backend. 
+<br/>
+Bootstrap 5.0 is used for GUI.
 ### The App is Live here : https://reportglobalcovid.netlify.app/
 
 # Available Scripts
